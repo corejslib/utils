@@ -1,5 +1,11 @@
 # Changelog
 
+### v0.0.1 (2026-09-15)
+
+**Other changes:**
+
+- chore: init (● [667e175](https://github.com/corejslib/utils/commit/667e175); 👬 zdm)
+
 ### v2.15.2 (2026-09-07)
 
 **Code refactoring:**
