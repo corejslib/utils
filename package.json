@@ -1,0 +1,37 @@
+{
+    "name": "@corejslib/utils",
+    "version": "0.0.0",
+    "description": "External resources",
+    "keywords": [
+        "utils",
+        "resources"
+    ],
+    "homepage": "https://corejslib.github.io/utils/",
+    "bugs": {
+        "url": "https://github.com/corejslib/utils/issues",
+        "email": "root <root@softvisio.net>"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/corejslib/utils.git"
+    },
+    "license": "ISC",
+    "author": "root <root@softvisio.net>",
+    "type": "module",
+    "imports": {
+        "#lib/*": "./lib/*.js"
+    },
+    "exports": {
+        "./*": "./lib/*.js"
+    },
+    "files": [
+        "/bin",
+        "/lib",
+        "/resources",
+        "/src"
+    ],
+    "peerDependencies": {
+        "@corejslib/result": "^6.1.1",
+        "tar": "^7.0.0"
+    }
+}
