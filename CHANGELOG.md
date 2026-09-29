@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.0 (2026-09-29)
+
+**New features:**
+
+- \[MINOR] feat: update external-resources export (● [613c2e8](https://github.com/corejslib/utils/commit/613c2e8); 👬 zdm)
+
+Compare with the previous release: [v1.0.0...v1.1.0](https://github.com/corejslib/utils/compare/v1.0.0...v1.1.0)
+
 ### v1.0.0 (2026-09-15)
 
 **Migration notes:**
